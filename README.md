@@ -21,5 +21,3 @@ Access the tool here: [YouTube Playlist Length](https://shiva-prasad-sarkar.gith
 
 ---
 
-## Project Structure
-
